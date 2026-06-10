@@ -22,6 +22,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 - [GG OCD](https://ggapps.net/2018/04/11/ggoc-ocd-training-app/) - Improves OCD symptoms by increasing the user's awareness of negative thoughts through short games.
 - [Headspace](https://www.headspace.com/) - Meditation in small bits and pieces.
 - [meQuilibrium](https://mequilibrium.com) - Web & mobile app that harnesses behavioral psychology to build resilience and agility.
+- [MirrorNotes](https://mirrornotes.org) - Private AI journaling app for iPhone. All AI — daily reflection prompts, mood tracking, and "Ask your journal" queries — runs entirely on-device (Gemma 3). Journal text never leaves your device. Free to write unlimited entries forever; AI features available with 7-day free trial.
 - [Muse brain sensing headband](http://www.choosemuse.com/) - Headband and companion app for mindfulness meditation.
 - [Paula](https://trypaula.com) - Free AI mental health companion using CBT and DBT techniques. Features voice sessions, mood tracking, journaling, and 24/7 availability.
 - [Sleepio](https://www.sleepio.com/) - Improve your sleep habits and quality.
